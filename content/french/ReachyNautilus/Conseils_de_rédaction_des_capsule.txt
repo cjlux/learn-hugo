@@ -3,11 +3,6 @@
 - renvoyer sur des liens pour plus de détails
 
 Français :
-<<<<<<< HEAD
 - mettre un espace avant et après tous les signes de ponctuation "à 2 éléments" :   ! ; :
 - penser à utiliser les majuacules aacentuées : Épaule, et non pas Epaule
-=======
-- mettre un espece avant et après tous les signes de ponctuation "à 2 éléments" :   ! ; :
-- penser à utiliser les majuscules aacentuées : Épaule, et non pas Epaule
 
->>>>>>> ba35a50ceb81d09a7ac6c3d71342debd1998d6a5
